@@ -15,6 +15,7 @@ A web app to note down a things to do.
 * Javascript
 * Tailwind CSS
 * React.js
+* Redux Toolkit
 
 ### API
 * JSON web api
